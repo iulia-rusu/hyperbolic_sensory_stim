@@ -13,7 +13,7 @@ import pandas as pd
 
 import plotly.express as px
 from matplotlib import rcParams
-import plotly.express as px
+
 
 #returns hyperbolic distance between vectors in poincare ball
 
